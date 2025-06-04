@@ -68,3 +68,6 @@ This folder migrates Unitree RL environments to [Isaac Lab](https://github.com/i
             ```bash
             python scripts/random_agent.py --task=unitree_g1
             ```
+
+## Generation of This Folder
+This folder was generated with Isaac Lab [template](https://isaac-sim.github.io/IsaacLab/main/source/overview/developer-guide/template.html). Read [Generate unitree_rl_lab from Isaac Lab template](doc/from_isaaclab_template.md) for the details of generation.
